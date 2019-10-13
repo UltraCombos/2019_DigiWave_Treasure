@@ -1,0 +1,24 @@
+﻿#pragma kernel Main
+
+int m_vertexCount;
+float m_deltaTime;
+float4x4 m_transformMatrix;
+float4x4 m_prevTransformMatrix;
+StructuredBuffer<float3> m_positionBuffer;
+StructuredBuffer<float3> m_prevPositionBuffer;
+RWTexture2D<float4> m_positionRT;
+RWTexture2D<float4> m_velocityRT;
+
+[numthreads(8,8,1)]
+void Main(uint2 id : SV_DispatchThreadID)
+{
+	int _width, _height;
+	m_positionRT.GetDimensions(_width, _height);
+
+	int _index = (id.x + id.y*_width) % m_vertexCount;
+	float3 _pos = mul(m_transformMatrix, float4(m_positionBuffer[_index], 1));
+	float3 _prevPos = mul(m_prevTransformMatrix, float4(m_prevPositionBuffer[_index],1));
+
+	m_positionRT[id] = float4(_pos,1);
+	m_velocityRT[id] = float4((_prevPos - _pos) * -(1/m_deltaTime),1);
+}
