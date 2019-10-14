@@ -259,8 +259,8 @@ Material:
     - _ZTestModeDistortion: 4
     - _ZTestTransparent: 4
     - _ZWrite: 1
-    - _fakeTime: 152.85477
-    - _patternOffset: -198.62927
+    - _fakeTime: 208.8652
+    - _patternOffset: -204.81133
     m_Colors:
     - Color_535CE7AC: {r: 191.74902, g: 191.74902, b: 191.74902, a: 0}
     - Color_A60EC340: {r: 0.2735849, g: 0.2735849, b: 0.2735849, a: 0}
