@@ -7,6 +7,7 @@ The music is produced by well-known music producer Lim Giong.
 System Requirements
 -------------------
 -Unity 2019.2.9f1 or later
+
 -HDRP 6.9.1 
 
 In this performance , a desktop PC with GeForce GTX 2070 was used to keep flawless 60fps on 1080p. If you're trying to run it on a less powerful PC or laptop, you'd have to turn off some of the effects to reduce GPU load.
