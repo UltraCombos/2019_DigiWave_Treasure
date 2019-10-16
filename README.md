@@ -5,13 +5,13 @@ The project contains a complete 10-minute visual for each of the two songs. Thos
 
 The music is produced by well-known music producer Lim Giong.
 
-![Screenshot](https://i.imgur.com/KXGp6ao.jpg)
 ![gif](https://i.imgur.com/ILt6AXC.gif)
 ![gif](https://i.imgur.com/4ojf9Ms.gif)
 ![gif](https://i.imgur.com/cDE5WvY.gif)
 ![gif](https://i.imgur.com/gwpnrVg.gif)
 ![gif](https://i.imgur.com/nHuou6g.gif)
 ![gif](https://i.imgur.com/vveGiqy.gif)
+![Screenshot](https://i.imgur.com/KXGp6ao.jpg)
 
 System Requirements
 -------------------
