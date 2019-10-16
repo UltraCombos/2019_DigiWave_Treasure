@@ -1,5 +1,7 @@
 # 2019 DigiWave
 
+![gif](https://i.imgur.com/ILt6AXC.gif)
+![gif](https://i.imgur.com/4ojf9Ms.gif)
 ![gif](https://i.imgur.com/cDE5WvY.gif)
 ![gif](https://i.imgur.com/gwpnrVg.gif)
 ![gif](https://i.imgur.com/nHuou6g.gif)
