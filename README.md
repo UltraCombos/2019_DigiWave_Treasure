@@ -33,4 +33,4 @@ How to Check
 -------------------
 The two scenes have been put on asset's root, If you want to check the whole content quickly, you can open the timeline and slide.
 
-![Screenshot](https://i.imgur.com/h5R307r.jpg)
+![Screenshot](https://i.imgur.com/5MTp66W.jpg)
