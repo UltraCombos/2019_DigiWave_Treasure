@@ -3,6 +3,12 @@
 Shell is a Unity project made for a live performance in Digiwave at Kaohsiung Music Center, 11th Oct 2019.
 The project contains two of four tracks showed during the performance, each with a complete 10-minute visual. Those two tracks have very different styles. The visual of the first track focus on the deconstruction of the shells, while the second explores the connection between whales and the ocean.
 
+Special thanks to Keijiro Takahashi for his awesome asset called Lasp that use on analysing tracks.
+(https://github.com/keijiro/Lasp) 
+
+The orignal project contains copyrighted whale model so that we replace it with a free source from Sketchfab.
+(https://sketchfab.com/lolilith)
+
 The sound is produced by well-known music producer Lim Giong.
 
 ![Screenshot](https://i.imgur.com/KXGp6ao.jpg)
