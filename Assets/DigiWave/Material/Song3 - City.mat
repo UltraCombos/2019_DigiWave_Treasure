@@ -259,8 +259,8 @@ Material:
     - _ZTestModeDistortion: 4
     - _ZTestTransparent: 4
     - _ZWrite: 1
-    - _fakeTime: 208.8652
-    - _patternOffset: -204.81133
+    - _fakeTime: 667.55963
+    - _patternOffset: -744.75604
     m_Colors:
     - Color_535CE7AC: {r: 191.74902, g: 191.74902, b: 191.74902, a: 0}
     - Color_A60EC340: {r: 0.2735849, g: 0.2735849, b: 0.2735849, a: 0}
@@ -282,5 +282,5 @@ Material:
     - _UVDetailsMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMaskEmissive: {r: 1, g: 0, b: 0, a: 0}
-    - _emissionColor: {r: 1.4980392, g: 1.4980392, b: 1.4980392, a: 0}
-    - _secondaryEmissionColor: {r: 11.984314, g: 11.984314, b: 11.984314, a: 0}
+    - _emissionColor: {r: 3.4337604, g: 3.4337604, b: 3.4337604, a: 0}
+    - _secondaryEmissionColor: {r: 66.17421, g: 66.17421, b: 66.17421, a: 0}
