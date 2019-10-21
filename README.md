@@ -1,6 +1,6 @@
 # 2019 DigiWave
 
-Shell is a Unity project made for a live performance in Digiwave at Kaohsiung Music Center, 11th Oct 2019.
+Treasure is a Unity project made for a live performance in Digiwave at Kaohsiung Music Center, 11th Oct 2019.
 The project contains two of four tracks showed during the performance, each with a complete 10-minute visual. Those two tracks have very different styles. The visual of the first track focus on the deconstruction of the shells, while the second explores the connection between whales, ocean and industrial development of Kaohsiung.
 
 Special thanks to Keijiro Takahashi for his awesome asset called Lasp that use on analysing tracks.
