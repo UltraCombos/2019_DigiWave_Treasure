@@ -6,7 +6,7 @@ The project contains two of four tracks showed during the performance, each with
 Special thanks to Keijiro Takahashi for his awesome asset called Lasp that use on analyzing tracks.
 (https://github.com/keijiro/Lasp) 
 
-The original project contains a copyrighted whale model so that we replace it with a free resource from Sketchfab.
+The project of performance contains a copyrighted whale model so that we replace it with a free resource from Sketchfab.
 (https://sketchfab.com/lolilith)
 
 The sound is produced by well-known music producer Lim Giong.
