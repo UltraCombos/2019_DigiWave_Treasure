@@ -11,6 +11,8 @@ The project of performance contains a copyrighted whale model so that we replace
 
 The sound is produced by well-known music producer Lim Giong.
 
+Sound download link : https://reurl.cc/jdvWDp
+
 ![Screenshot](https://i.imgur.com/KXGp6ao.jpg)
 ![gif](https://i.imgur.com/ILt6AXC.gif)
 ![gif](https://i.imgur.com/4ojf9Ms.gif)
