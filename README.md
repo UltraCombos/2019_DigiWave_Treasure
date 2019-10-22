@@ -27,10 +27,10 @@ System Requirements
 
 - HDRP 6.9.1 or later
 
-In this performance , a desktop PC with GeForce GTX 2070 was used to keep flawless 60fps on 1080p resolution. If you're trying to run it on a less powerful PC or laptop, you'd have to turn off some of the effects to reduce GPU load.
+In this performance, a desktop PC with GeForce GTX 2070 was used to keep flawless 60fps on 1080p resolution. If you're trying to run it on a less powerful PC or laptop, you'd have to turn off some of the effects to reduce GPU load.
 
 How to Check
 -------------------
-The two scenes have been put on asset's root, If you want to check the whole content quickly, you can open the timeline and slide.
+The two scenes have been put on asset's root, if you want to check the whole content quickly, you can open the timeline and slide.
 
 ![Screenshot](https://i.imgur.com/5MTp66W.jpg)
